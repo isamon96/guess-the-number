@@ -1,0 +1,19 @@
+# .gitignore
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore pytest cache directory
+.pytest_cache/
+
+# Ignore virtual environment
+venv/
+
+# Ignore IDE specific files
+.idea/
+*.swp
+*.swo
+*.swn
+*.pyc
+.DS_Store

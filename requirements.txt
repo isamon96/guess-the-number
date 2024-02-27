@@ -1,0 +1,4 @@
+# requirements.txt
+
+# Other dependencies...
+pytest==8.0.2
